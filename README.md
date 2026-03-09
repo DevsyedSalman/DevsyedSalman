@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there 👋, I'm Devsyedsalman<br>A full-stack developer building modern web apps with React, Node.js, and Tailwind CSS.<br>I am currently working on AI resume analyzer project <br>open to contribute in a project
+# Hi there 👋, I'm Devsyedsalman from Pakistan <br>A full-stack developer building modern web apps with React, Node.js, and Tailwind CSS.<br>I am currently working on AI resume analyzer project <br>open to contribute in a project
 
 
 ## 🌐 Socials:
